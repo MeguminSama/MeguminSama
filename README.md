@@ -1,4 +1,4 @@
-$$\color{pink}\fbox{\textbf{\textsf{READ IF CUTE}}}$$
+$$\color{pink}\fbox{\textbf{\textsf{read if cute}}}$$
 
 ###### _h_
 
