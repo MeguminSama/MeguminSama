@@ -1,6 +1,7 @@
 ### Hey there, I'm Rie.
 
 I write software, mostly related to Discord modding. I'm also [Available To Hire](https://megu.dev)!
+
 ## Discord ModLoader
 Load Discord Client Mods (such as Vencord, Moonlight, BetterDiscord) without ever needing to patch the Discord client. Saving you the pain of patching/unpatching/updating whenever the client or mod updates.
 [Check it out here](https://github.com/MeguminSama/Discord-ModLoader)
@@ -12,6 +13,10 @@ A webpack debundler, primarily made for splitting & beautifying webpack modules 
 ## JSX Reconstructor
 Convert webpack/minified react code back into valid JSX.
 [Check it out here](https://github.com/MeguminSama/JSX-Reconstructor)
+
+## Discord Build Logger
+Logging all Discord builds, currently undergoing a rewrite.
+[Check it out here](https://github.com/discord-build-logger/scraper)
 
 ## Discord Experiments Enabler
 A small script you can paste into your Discord client to enable experiments without needing a client mod. Effects stay until you reload the client.
