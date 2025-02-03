@@ -2,8 +2,15 @@
 
 I write software, mostly related to Discord modding. I'm also [Available To Hire](https://megu.dev)!
 
+## moonlight / Vencord Launcher
+Launch moonlight or Vencord without having to patch your Discord client. Want to run modded? Run it with one-click through the launcher! Want to run vanilla Discord? Just run Discord normally! No hassle, no fuss.
+
+[moonlight Launcher](https://github.com/MeguminSama/moonlight-launcher)
+
+[Vencord Launcher](https://github.com/MeguminSama/Vencord-Launcher)
+
 ## Discord ModLoader
-Load Discord Client Mods (such as Vencord, Moonlight, BetterDiscord) without ever needing to patch the Discord client. Saving you the pain of patching/unpatching/updating whenever the client or mod updates.
+A much more generalised version of the above - Run any Discord client mod (such as Vencord, Moonlight, BetterDiscord, shelter, etc.) without ever needing to patch the Discord client. Saving you the pain of patching/unpatching/updating whenever the client or mod updates.
 [Check it out here](https://github.com/MeguminSama/Discord-ModLoader)
 
 ## DPacker
