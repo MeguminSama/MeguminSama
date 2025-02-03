@@ -2,6 +2,8 @@
 
 I write software, mostly related to Discord modding. I'm also [Available To Hire](https://megu.dev)!
 
+If you like my projects or want to support me, please consider [sponsoring me on GitHub!](https://github.com/sponsors/meguminsama) I'll be grateful for any support!
+
 ## moonlight / Vencord Launcher
 Launch moonlight or Vencord without having to patch your Discord client. Want to run modded? Run it with one-click through the launcher! Want to run vanilla Discord? Just run Discord normally! No hassle, no fuss.
 
